@@ -1,0 +1,1 @@
+relish push vaccancy-manager
